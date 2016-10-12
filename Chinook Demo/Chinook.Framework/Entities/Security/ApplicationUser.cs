@@ -7,7 +7,8 @@ using System.Threading.Tasks;
 
 namespace Chinook.Framework.Entities.Security
 {
-    class ApplicationUser : IdentityUser
+    public class ApplicationUser : IdentityUser
     {
+
     }
 }
